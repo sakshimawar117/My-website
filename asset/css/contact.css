@@ -261,18 +261,16 @@ li{
             color: white;
             border: none;}
              
-        .bottom{
-            width: 155%;
-            height: 126px;
-            margin-top: 190px;
-            background-color: #282626bd;
-            position: absolute;
-            display: inline-block;
-            margin-left: -570px;
-        
-            color: white;
-            
-        }
+            .bottom {
+                width: 155%;
+                height: 126px;
+                margin-top: 190px;
+                background-color: #282626bd;
+                position: absolute;
+                display: inline-block;
+                margin-left: -377px;
+                color: white;
+            }
 
         li:hover{color:blue;
             text-decoration: none;
