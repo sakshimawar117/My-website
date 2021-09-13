@@ -262,7 +262,7 @@ li{
             border: none;}
              
             .bottom {
-                width: 155%;
+                width: 100vw;
                 height: 126px;
                 margin-top: 190px;
                 background-color: #282626bd;
